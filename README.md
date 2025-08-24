@@ -3,6 +3,8 @@
 ## Descrição
 Projeto simples de CRUD para gerenciar pessoas (nome, idade, peso), calcular médias e listar registros usando **Python** e **PostgreSQL**.
 
+Feito em pelos alunos: Arthur Moreira, Caio de Jesus, Davi Santos, Jonatas Muniz e Wendell Jesus. Disciplina Implantação de Sistemas.
+
 ## Estrutura do Projeto
 ```
 CRUD/
